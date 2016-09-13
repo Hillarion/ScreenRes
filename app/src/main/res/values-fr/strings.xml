@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ScreenRes</string>
+    <string name="api_version">Version Api : </string>
+</resources>
